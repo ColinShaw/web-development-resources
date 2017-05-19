@@ -2,7 +2,9 @@
 
 This is a curated collection of resources related to web development 
 languages and tools that I have found useful or interesting.  This isn't
-to say that this is only web-related stuff, but sorta kinda mostly.
+to say that this is only web-related stuff, but sorta kinda mostly.  Also,
+and just because I don't want any clutter in here, I am not putting links
+to a whole host of tools that do not stand out as elegant or performant.
 
 
 
